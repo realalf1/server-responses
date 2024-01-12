@@ -1,7 +1,7 @@
 # <div align="center"> server-responses </div>
 
 ### 🧾 Description 
-This repository is intended for learning purposes which determines given responses from server.
+This repository is intended for learning purposes which analysis given responses from server.
 
 ### 🔎 Depedencies
 - [x] beatufiulsoup4
